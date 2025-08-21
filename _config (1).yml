@@ -1,0 +1,7 @@
+title: "Venkatesh Duddupudi"
+description: "Senior Technical Writer | API | Cybersecurity | SaaS"
+theme: jekyll-theme-minimal
+
+# Optional: Add navigation links
+plugins:
+  - jekyll-seo-tag
