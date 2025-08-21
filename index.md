@@ -1,86 +1,89 @@
 ---
 layout: default
-title: "Venkatesh Duddupudi"
+title: "Pavani Eli"
 ---
 
-# Venkatesh Duddupudi  
+# Pavani Eli
 
-📍 Hyderabad, Telangana 
+📍 Location: (Add your current city, e.g., Hyderabad, Telangana)
 
 ---
 
-## 📌 Navigation  
+## 📌 Navigation
 - [About Me](#-about-me)  
 - [Skills](#-skills)  
 - [Experience](#-experience)  
-- [Education & Recognition](#-education-certifications--recognition)  
+- [Education & Recognition](#-education--recognition)  
 - [Contact](#-contact)  
 
 ---
 
-## 👨‍💻 About Me  
-Senior Technical Writer with 9+ years of experience creating user guides, API documentation, and developer-focused content for **SaaS, networking, and cybersecurity products**. Skilled in **structured content authoring (DITA, XML, Markdown, reStructuredText)**, API documentation, and accessibility-focused documentation. Hands-on experience with **Swagger/OpenAPI, Postman, GitHub, Jira, and Confluence**, with proven ability to work in **Agile environments**.  
+## 👩‍💻 About Me  
+Innovative and detail-oriented Senior Technical Writer with 8+ years of experience producing clear and engaging documentation for complex technical products, developing curriculum, and training materials. Expert at collaborating with engineering teams, SMEs, and product managers to deliver user-focused manuals, release notes, and training content. Strong computer science foundation, enabling precise communication of cloud, networking, and open-source technologies to both technical and non-technical audiences. Passionate about documentation quality, open source, and process improvement.
 
 ---
 
 ## 🛠 Skills  
-- **API Documentation:** OpenAPI, REST APIs, Swagger, Postman  
-- **Structured Authoring:** DITA, XML, Markdown, reStructuredText, Oxygen XML, Arbortext  
-- **Cybersecurity & Networking Docs:** Access control, Logging, Compliance, Troubleshooting  
-- **Tools & Workflow:** GitHub, Jira, Confluence, Visual Studio Code  
-- **Automation & AI:** Prompt Engineering, CI/CD Documentation Automation  
-- **Collaboration:** Agile/Scrum, Peer Review, Cross-functional Communication  
+- **Documentation Tools:** GitLab, AEM, DITA XML, Markdown, Adobe Acrobat, SharePoint  
+- **Methodologies:** Agile, Topic-based Authoring, CMS Management  
+- **Technologies:** Linux, Kubernetes, OpenShift, APIs, Cloud Native Network Functions  
+- **Soft Skills:** Communication, Collaboration, Detail-Orientation, Self-Motivation  
 
 ---
 
 ## 💼 Experience  
 
-### **Technical Writer – F5 Networks**  
-*Nov 2023 – Aug 2025*  
-- Created and maintained **API documentation, tutorials, and integration guides** for networking and cybersecurity products.  
-- Translated **cybersecurity workflows and features** into developer-friendly documentation.  
-- Validated APIs with **Postman and Swagger/OpenAPI**, ensuring accuracy.  
-- Authored **licensing, logging, and troubleshooting guides** for BIG-IP Next modules.  
-- Maintained docs in **GitHub repos with CI/CD automation**.  
-- Applied **AI-assisted authoring (Prompt Engineering)** to streamline drafting and reviews.  
+### **Technical Writer II – F5 Networks**  
+*Dec 2023 – Present*  
+- Lead complete documentation for Cloud Native Network Functions (CNFs) across OpenShift, Robin, and AON platforms.  
+- Collaborate with engineering, QA, and project management teams to ensure timely, accurate documentation delivery.  
+- Create and maintain release notes for major product releases.  
+- Manage documentation repositories via GitLab; coordinate end-to-end release cycles.  
+- Support advanced initiatives, including BIG-IP Next on Kubernetes and AI workload integration.  
+- Proven track record in software documentation for cloud and open-source technologies.
+
+### **Associate Technical Writer – Qualcomm**  
+*Jun 2022 – Nov 2023*  
+- Produced ~50% of end-user manuals for 5G chipset products, focusing on APIs, SDKs, and performance features.  
+- Partnered with over 15 SMEs for technical insights and accuracy.  
+- Tools: AEM, JIRA, DITA XML, Agile.  
+- Recognized with multiple stakeholder awards for collaboration and high standards.
+
+### **Technical Writer – Cognizant**  
+*Jun 2020 – Jun 2022*  
+- Authored corporate communications, release documentation, SOPs, and web content.  
+- Worked cross-functionally to improve user experience and ensure brand consistency.
+
+### **Academic Head and Faculty – Joy School**  
+*Jun 2019 – Mar 2020*  
+- Developed curriculum, instructional materials, and training programs.  
+- Mentored teaching staff and led educational initiatives.
+
+### **Faculty – Cute Island International School**  
+*Mar 2017 – Mar 2019*  
+- Involved in developing curriculum, teaching, and training.  
+- Conducted and hosted events and educational expos.
 
 ---
 
-### **Technical Writer (Contract) – Microsoft**  
-*May 2023 – Oct 2023*  
-- Authored and published documentation for **Dynamics 365 Customer Service SaaS platform**.  
-- Developed **Web API docs** using JavaScript, HTML, and JSON.  
-- Managed docs in **GitHub with VS Code**.  
-
----
-
-### **Senior Professional – Capgemini Engineering**  
-*Jan 2022 – Apr 2023*  
-- Created **structured documentation** for IBM storage software (on-prem, cloud, and container).  
-- Authored admin/configuration guides in **Oxygen XML and GitHub**.  
-
----
-
-### **Technical Lead – Cyient Ltd**  
-*Jul 2011 – Jan 2022*  
-- Authored manuals, installation guides, and illustrated parts catalogs.  
-- Applied **MSTP and STE style standards**.  
-- Mentored junior writers.  
-
----
-
-## 🎓 Education, Certifications & Recognition  
-- **B.Tech in Mechanical Engineering (2007–2011)** – Gayatri Vidya Parishad College of Engineering (JNTUK) – 70% Aggregate  
-- **Prompt Engineering Certification** – Completed at F5  
-- **Spot Award** – Outstanding performance at F5  
-- **Conference Presentation** – *TechWriters Tribe Conference* on OpenAPI docs using Redocly  
+## 🎓 Education & Recognition  
+- **B.Tech – Computer Science & Engineering**  
+  Pondicherry University | GPA: 7.6  
+- Received spot award in Q2, 2025 for best performance in F5 Networks.  
+- Awarded multiple ThankQ points at Qualcomm for excellence and collaboration.  
+- Best Academic Head 2019–20 at Joy School.  
+- Multiple technical paper presentation awards during college.  
+- Recognized for documentation quality and team collaboration by peers and stakeholders.
 
 ---
 
 ## 📬 Contact  
-✉️ Email: venki309@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/duddupudi-venkatesh-3b676312a/) 
-💻 GitHub Resume: [yourusername.github.io/profile](https://venki309.github.io/venki-resume/)  
+✉️ Email: pavani.eli@gmail.com  
+📞 Phone: 9573649726  
+<!-- Add links if you want -->
+<!-- LinkedIn: [Your LinkedIn Profile](linkedin_url) -->  
+<!-- GitHub Resume: [github_username.github.io](github_url) -->  
+
 <p align="center">
   <button onclick="window.print()" style="padding:10px 20px; font-size:16px; background:#4CAF50; color:white; border:none; border-radius:6px; cursor:pointer;">
     📄 Save Resume as PDF
