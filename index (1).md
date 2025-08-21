@@ -27,7 +27,7 @@ Innovative and detail-oriented Senior Technical Writer with 8+ years of experien
 - **Documentation Tools:** GitLab, AEM, DITA XML, Markdown, Adobe Acrobat, SharePoint, reStructuredText, Oxygen XML, Arbortext  
 - **Methodologies:** Agile, Topic-based Authoring, CMS Management  
 - **Technologies:** Linux, Kubernetes, OpenShift, APIs, Cloud Native Network Functions  
-- **Soft Skills:** Interpersonal & Professional Communication, Cross-Functional Team Collaboration, Stakeholder & Peer Engagement, Precision-Driven Approach, Analytical Attention to Detail, Proactive & Self-Driven 
+- **Soft Skills:** Interpersonal & Professional Communication, Cross-Functional Team Collaboration, Stakeholder & Peer Engagement, Precision-Driven Approach, Analytical Attention to Detail, self-driven 
 
 ---
 
