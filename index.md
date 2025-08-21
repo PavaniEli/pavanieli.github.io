@@ -5,7 +5,7 @@ title: "Pavani Eli"
 
 # Pavani Eli
 
-📍 Location: (Add your current city, e.g., Hyderabad, Telangana)
+📍 Location: (Hyderabad, Telangana)
 
 ---
 
@@ -24,18 +24,17 @@ Innovative and detail-oriented Senior Technical Writer with 8+ years of experien
 ---
 
 ## 🛠 Skills  
-- **Documentation Tools:** GitLab, AEM, DITA XML, Markdown, Adobe Acrobat, SharePoint  
+- **Documentation Tools:** GitLab, AEM, DITA XML, Markdown, Adobe Acrobat, SharePoint, reStructuredText, Oxygen XML, Arbortext  
 - **Methodologies:** Agile, Topic-based Authoring, CMS Management  
 - **Technologies:** Linux, Kubernetes, OpenShift, APIs, Cloud Native Network Functions  
-- **Soft Skills:** Communication, Collaboration, Detail-Orientation, Self-Motivation  
-
+- **Soft Skills:** Effective Interpersonal & Professional Communication, Cross-Functional Team Collaboration, Stakeholder & Peer Engagement, Precision-Driven Approach, Analytical Attention to Detail, Proactive & Self-Driven 
 ---
 
 ## 💼 Experience  
 
 ### **Technical Writer II – F5 Networks**  
 *Dec 2023 – Present*  
-- Lead complete documentation for Cloud Native Network Functions (CNFs) across OpenShift, Robin, and AON platforms.  
+- Lead complete documentation for Cloud Native Network Functions (CNFs) across OpenShift, Robin, and AON platforms from v1.4.0 release.  
 - Collaborate with engineering, QA, and project management teams to ensure timely, accurate documentation delivery.  
 - Create and maintain release notes for major product releases.  
 - Manage documentation repositories via GitLab; coordinate end-to-end release cycles.  
@@ -80,9 +79,8 @@ Innovative and detail-oriented Senior Technical Writer with 8+ years of experien
 ## 📬 Contact  
 ✉️ Email: pavani.eli@gmail.com  
 📞 Phone: 9573649726  
-<!-- Add links if you want -->
-<!-- LinkedIn: [Your LinkedIn Profile](linkedin_url) -->  
-<!-- GitHub Resume: [github_username.github.io](github_url) -->  
+LinkedIn: [Pavani Eli](https://www.linkedin.com/in/pavani-e-8365a012a/)
+GitHub Resume: [pavanieli.github.io](pavanieli.github.io/pavani-resume/)  
 
 <p align="center">
   <button onclick="window.print()" style="padding:10px 20px; font-size:16px; background:#4CAF50; color:white; border:none; border-radius:6px; cursor:pointer;">
